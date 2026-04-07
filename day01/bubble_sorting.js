@@ -11,7 +11,6 @@ for(let i=0; i <arr.length; i++) {
             arr[j+1] = temp;
         }
 
-        console.log(arr.length - 1 );
     }
 }
 console.log(arr);
